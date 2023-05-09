@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasphatangare&label=Profile%20views&color=0e75b6&style=flat" alt="tejasphatangare" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasphatangare" alt="tejasphatangare" /></a> </p>
+<p align="left"> <a href="https://github.com/tejasphatangare"><img src="https://github-profile-trophy.vercel.app/?username=tejasphatangare" alt="tejasphatangare" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/tejass/" target="blank"><img src="https://img.shields.io/twitter/follow/tejass/?logo=twitter&style=for-the-badge" alt="tejass/" /></a> </p>
 
