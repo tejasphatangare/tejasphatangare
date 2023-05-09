@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://tejasphatangare.github.io/TejasPortfolio/)
 <h1 align="center">Hi 👋, I'm Tejas Phatangare</h1>
 <h3 align="center">A passionate Aspiring Full Satck Web developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasphatangare&label=Profile%20views&color=0e75b6&style=flat" alt="tejasphatangare" /> </p>
